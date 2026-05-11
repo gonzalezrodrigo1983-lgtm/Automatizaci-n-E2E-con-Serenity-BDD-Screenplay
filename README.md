@@ -42,3 +42,4 @@ Los datos de prueba están desacoplados en `login-users.json`, permitiendo mante
 # desafio-e2e-serenity-screenplay
 # desafio-performance-jmeter
 # desafio-performance-jmeter
+# desafio-e2e-serenity-screenplay
